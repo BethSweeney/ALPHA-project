@@ -1,0 +1,18 @@
+% File initiated 18/10/2022 21:02:53 UTC
+% Raw fountain data
+%
+% File notes: maser 5 MHz 1100 mV RF amplitude scan gives different amplitude 620
+%
+%% fountain_code = ALPHA-CsF1
+%% microwave_ref = ALPHA HM1
+%% MJD_start = 59870.877012
+%% clock_data = True
+%% sequence = 1
+%% density = HD
+%
+% Units: V.s, Hz
+%
+% Shot B MJD days	Shot B MJD seconds	freq error	shot A sum	shot A ratio	shot B sum	shot B ratio	shot A F=3 bg 1	shot A F=3 bg 2	shot A F=4 bg 1	shot A F=4 bg 2	shot B F=3 bg 1	shot B F=3 bg 2	shot B F=4 bg 1	shot B F=4 bg 2	Shot A MJD days	Shot A MJD seconds	Shot order (0=LF->HF)
+59870	75776	0.00119720	0.03527575	0.50315466	0.03546896	0.49956306	0.62629652	0.62679850	0.29111467	0.29048088	0.62654196	0.62691708	0.29101409	0.29058055	59870	75775	0
+59870	75779	0.00046124	0.03587123	0.50016250	0.03592911	0.50237038	0.62672718	0.62693787	0.29070915	0.29054596	0.62642947	0.62696975	0.29129545	0.29053980	59870	75778	0
+59870	75783	0.00036510	0.03605346	0.50044862	0.03623074	0.50073705	0.62639077	0.62685159	0.29095024	0.29048474	0.62664944	0.62697936	0.29073931	0.29046272	59870	75781	0

@@ -1,0 +1,17 @@
+% File initiated 12/12/2022 11:48:30 UTC
+% Raw fountain data
+%
+% File notes: maser 5 MHz RF amplitudes 250 720 1550 1550 1600 1940 1980 2300  microwave leakage pio2 FSK 3pio2 FSK 7pio2 FSK 7pio2 7pio2 9pio2 9pio2 11pio2 negative gradient on last no water cooling
+%
+%% fountain_code = ALPHA-CsF1
+%% microwave_ref = ALPHA HM1
+%% MJD_start = 59925.492016
+%% clock_data = False
+%% sequence = 12
+%% density = LD
+%
+% Units: V.s, Hz
+%
+% Shot B MJD days	Shot B MJD seconds	freq error	shot A sum	shot A ratio	shot B sum	shot B ratio	shot A F=3 bg 1	shot A F=3 bg 2	shot A F=4 bg 1	shot A F=4 bg 2	shot B F=3 bg 1	shot B F=3 bg 2	shot B F=4 bg 1	shot B F=4 bg 2	Shot A MJD days	Shot A MJD seconds	Shot order (0=LF->HF)
+59925	42549	-0.00009378	0.00589651	0.53119329	0.00584028	0.53123080	0.61804888	0.61749093	0.31479848	0.31474910	0.61807969	0.61743062	0.31488246	0.31482355	59925	42547	0
+59925	43052	0.00413759	0.00587279	0.53376531	0.00583259	0.53207277	0.61861036	0.61807394	0.31513958	0.31511731	0.61874857	0.61815258	0.31520910	0.31525602	59925	43051	0

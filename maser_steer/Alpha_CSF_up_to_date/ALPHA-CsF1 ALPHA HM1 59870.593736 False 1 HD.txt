@@ -1,0 +1,17 @@
+% File initiated 18/10/2022 14:14:58 UTC
+% Raw fountain data
+%
+% File notes: CERN_SNR_ off res VNA reference
+%
+%% fountain_code = ALPHA-CsF1
+%% microwave_ref = ALPHA HM1
+%% MJD_start = 59870.593736
+%% clock_data = False
+%% sequence = 1
+%% density = HD
+%
+% Units: V.s, Hz
+%
+% Shot B MJD days	Shot B MJD seconds	freq error	shot A sum	shot A ratio	shot B sum	shot B ratio	shot A F=3 bg 1	shot A F=3 bg 2	shot A F=4 bg 1	shot A F=4 bg 2	shot B F=3 bg 1	shot B F=3 bg 2	shot B F=4 bg 1	shot B F=4 bg 2	Shot A MJD days	Shot A MJD seconds	Shot order (0=LF->HF)
+59870	51301	0.00047588	0.03885173	0.50473223	0.03889562	0.50330459	0.62538565	0.62549124	0.29129857	0.29034982	0.62540717	0.62534423	0.29101688	0.29036296	59870	51299	0
+59870	51304	0.00152097	0.03842759	0.50695244	0.03930284	0.50381716	0.62520479	0.62511012	0.29050479	0.29022631	0.62478563	0.62483493	0.29113620	0.29004274	59870	51303	0

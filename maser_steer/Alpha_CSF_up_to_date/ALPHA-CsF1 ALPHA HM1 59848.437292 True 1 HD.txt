@@ -1,0 +1,16 @@
+% File initiated 26/09/2022 10:29:42 UTC
+% Raw fountain data
+%
+% File notes: CERN Rakon 10MHz 1350mV 
+%
+%% fountain_code = ALPHA-CsF1
+%% microwave_ref = ALPHA HM1
+%% MJD_start = 59848.437292
+%% clock_data = True
+%% sequence = 1
+%% density = HD
+%
+% Units: V.s, Hz
+%
+% Shot B MJD days	Shot B MJD seconds	freq error	shot A sum	shot A ratio	shot B sum	shot B ratio	shot A F=3 bg 1	shot A F=3 bg 2	shot A F=4 bg 1	shot A F=4 bg 2	shot B F=3 bg 1	shot B F=3 bg 2	shot B F=4 bg 1	shot B F=4 bg 2	Shot A MJD days	Shot A MJD seconds	Shot order (0=LF->HF)
+59848	37784	-0.06626625	0.00000223	0.59204718	0.00001135	0.79084593	0.47478543	0.47494919	0.21339442	0.21354734	0.47494057	0.47503285	0.21345564	0.21358432	59848	37783	0

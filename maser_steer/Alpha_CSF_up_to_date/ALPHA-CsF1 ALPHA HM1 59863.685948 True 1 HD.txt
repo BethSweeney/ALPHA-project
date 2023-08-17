@@ -1,0 +1,17 @@
+% File initiated 11/10/2022 16:27:45 UTC
+% Raw fountain data
+%
+% File notes: rakon 10MHZ ALPHA HM1 1100mV
+%
+%% fountain_code = ALPHA-CsF1
+%% microwave_ref = ALPHA HM1
+%% MJD_start = 59863.685948
+%% clock_data = True
+%% sequence = 1
+%% density = HD
+%
+% Units: V.s, Hz
+%
+% Shot B MJD days	Shot B MJD seconds	freq error	shot A sum	shot A ratio	shot B sum	shot B ratio	shot A F=3 bg 1	shot A F=3 bg 2	shot A F=4 bg 1	shot A F=4 bg 2	shot B F=3 bg 1	shot B F=3 bg 2	shot B F=4 bg 1	shot B F=4 bg 2	Shot A MJD days	Shot A MJD seconds	Shot order (0=LF->HF)
+59863	59268	0.00227103	0.04145828	0.51602696	0.04135801	0.50921386	0.65128636	0.65094855	0.31555578	0.31511295	0.65082612	0.65097164	0.31617510	0.31509759	59863	59267	0
+59863	59271	0.00103221	0.04156074	0.51084470	0.04180897	0.51456116	0.65112062	0.65099104	0.31548264	0.31513802	0.65094370	0.65058231	0.31538412	0.31490629	59863	59270	0

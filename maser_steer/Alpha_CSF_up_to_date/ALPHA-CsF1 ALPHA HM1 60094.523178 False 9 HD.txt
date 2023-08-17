@@ -1,0 +1,16 @@
+% File initiated 30/05/2023 12:33:22 UTC
+% Raw fountain data
+%
+% File notes: 250 ms MOT 1600ms sequence
+%
+%% fountain_code = ALPHA-CsF1
+%% microwave_ref = ALPHA HM1
+%% MJD_start = 60094.523178
+%% clock_data = False
+%% sequence = 9
+%% density = HD
+%
+% Units: V.s, Hz
+%
+% Shot B MJD days	Shot B MJD seconds	freq error	shot A sum	shot A ratio	shot B sum	shot B ratio	shot A F=3 bg 1	shot A F=3 bg 2	shot A F=4 bg 1	shot A F=4 bg 2	shot B F=3 bg 1	shot B F=3 bg 2	shot B F=4 bg 1	shot B F=4 bg 2	Shot A MJD days	Shot A MJD seconds	Shot order (0=LF->HF)
+60094	45728	0.00105132	0.04479055	0.50490208	0.04489850	0.50529940	0.68056753	0.68058215	0.35399842	0.35402423	0.68031000	0.68036645	0.35376095	0.35404929	60094	45726	0
